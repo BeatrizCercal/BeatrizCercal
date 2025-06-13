@@ -14,10 +14,10 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu utilizo regularmente</h2>
 
 ###
-![CSS](https://github.com/user-attachments/assets/639f8713-f0c7-4900-b7fc-3447c7616d3f) "font=12"
+![CSS](https://github.com/user-attachments/assets/639f8713-f0c7-4900-b7fc-3447c7616d3f) 
 ![Github-Dark](https://github.com/user-attachments/assets/56e9a89a-f278-4ce9-a3e9-843e4662cf1c)
 ![HTML](https://github.com/user-attachments/assets/cb17c5c7-3e66-467d-82a4-3477e1934795)
 ![MySQL-Dark](https://github.com/user-attachments/assets/91454d7b-dfb0-4258-a85e-228c066abafe)
