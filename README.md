@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Beatriz Cercal Cachoeira, sou estudante de Desenvolvimento de Sistemas da Escola SESI de Referência, em Joinville.</p>
 
 ###
 
