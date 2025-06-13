@@ -18,12 +18,28 @@
 
 ###
 
-<div align="left">
-  <img src="./icons/HTML.svg" width="48">       
-  <img src="./icons/CSS.svg" width="48">  
-  <img src="./icons/VSCode-Dark.svg" width="48"> 
-  <img src="./icons/VisualStudio-Dark.svg" width="48">
-  <img src="./icons/MySQL-Dark.svg" width="48"> 
-  <img src="./icons/LinkedIn.svg" width="48">
-  <img src="./icons/Figma-Dark.svg" width="48">  
+ `ableton`      |    <img src="./icons/Ableton-Dark.svg" width="48">    |
+|   `activitypub`    |  <img src="./icons/ActivityPub-Dark.svg" width="48">  |
+|      `actix`       |     <img src="./icons/Actix-Dark.svg" width="48">     |
+|      `adonis`      |       <img src="./icons/Adonis.svg" width="48">       |
+|        `ae`        |    <img src="./icons/AfterEffects.svg" width="48">    |
+|     `aiscript`     |   <img src="./icons/AiScript-Dark.svg" width="48">    |
+|     `alpinejs`     |   <img src="./icons/AlpineJS-Dark.svg" width="48">    |
+|     `anaconda`     |   <img src="./icons/Anaconda-Dark.svg" width="48">    |
+|  `androidstudio`   | <img src="./icons/AndroidStudio-Dark.svg" width="48"> |
+|     `angular`      |    <img src="./icons/Angular-Dark.svg" width="48">    |
+|     `ansible`      |      <img src="./icons/Ansible.svg" width="48">       |
+|      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
+|      `apple`       |     <img src="./icons/Apple-Dark.svg" width="48">     |
+|     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
+|       `arch`       |     <img src="./icons/Arch-Dark.svg" width="48">      |
+|     `arduino`      |      <img src="./icons/Arduino.svg" width="48">       |
+|      `astro`       |       <img src="./icons/Astro.svg" width="48">        |
+|       `atom`       |        <img src="./icons/Atom.svg" width="48">        |
+|        `au`        |      <img src="./icons/Audition.svg" width="48">      |
+|     `autocad`      |    <img src="./icons/AutoCAD-Dark.svg" width="48">    |
+|       `aws`        |      <img src="./icons/AWS-Dark.svg" width="48">      |
+|       `azul`       |        <img src="./icons/Azul.svg" width="48">        |
+|      `azure`       |     <img src="./icons/Azure-Dark.svg" width="48">     |
+|      `babel`       |       <img src="./icons/Babel.svg" width="48"> 
 ###
