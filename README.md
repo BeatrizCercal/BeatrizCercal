@@ -24,6 +24,12 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 
+<br/><br/>
+
+<!--Github Readme Stats-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelrcha&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="miguelrcha" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelrcha&show_icons=true&theme=github_dark&locale=en" alt="miguelrcha" /></p>
+
 
 
 
