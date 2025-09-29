@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025;<br>📚 I'm currently learning HTML, CSS and JavaScript;<br>🎯 Goals: Aperfeiçoar meus conhecimentos tecnológicos;<br>🎲 Fun fact: Passaria todo meu tempo escrevendo. Possuo grande afeição por letras e aprofundar-me em linguagem formal e direcionada a escrita constante.</p>
+<p align="left">✨ Creating bugs since 2025;<br>📚 I'm currently learning HTML, CSS and PHP;<br>🎯 Goals: ;<br>🎲 Fun fact: .</p>
 
 ###
 
-<h2 align="left">Eu utilizo regularmente</h2>
+<h2 align="left"></h2>
 
 ###
 <img align="left" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
