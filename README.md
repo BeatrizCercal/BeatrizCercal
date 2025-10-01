@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025;<br>📚 I'm currently learning HTML, CSS and PHP;<br>🎯 Goals: Learn and develop skills ;<br>🎲 Fun fact: I love write .</p>
+<p align="left">✨ Creating bugs since 2025;<br>📚 I'm currently learning HTML, CSS and PHP;<br>🎯 Goals: Learn and develop skills ;<br>🎲 Fun fact: I love write.</p>
 
 ###
 
