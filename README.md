@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Beatriz Cercal Cachoeira, sou estudante de Desenvolvimento de Sistemas da Escola SESI de Referência, em Joinville.</p>
+<p align="left">Meu nome é Beatriz Cercal Cachoeira, concluí o Ensino Médio integrado ao Técnico em  Desenvolvimento de Sistemas da Escola SESI de Referência, em Joinville, no ano de 2025, e obtive uma certificação de "Aluna Destaque" durante a formatura, reconhecimento derivado de uma dedicação abrangente durante o período supracitado.</p>
 
 ###
 
