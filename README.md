@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Meu nome é Beatriz Cercal Cachoeira, concluí o Ensino Médio integrado ao Técnico em  Desenvolvimento de Sistemas da Escola SESI de Referência, em Joinville, no ano de 2025, e obtive uma certificação de "Aluna Destaque" durante a formatura, reconhecimento derivado de uma dedicação abrangente durante o período supracitado.</p>
+<p align="left">My name is Beatriz Cercal Cachoeira, I completed my high school education integrated with a technical degree in Systems Development at the SESI Reference School in Joinville in 2025, and received a "Student of the Year" certificate during graduation, a recognition derived from comprehensive dedication during the aforementioned period.
+</p>
 
 ###
 
