@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025;<br>📚 I'm currently learning HTML, CSS, SQL, PHP AND Python;<br>🎯 Goals: Discovering the technological area I identify with most, likely associated with requirements gathering and data collection
+<p align="left">✨ Creating bugs since 2025;<br>📚 I'm currently learning HTML, CSS, SQL, PHP and Python;<br>🎯 Goals: Discovering the technological area I identify with most, likely associated with requirements gathering and data collection
 ;<br>🎲 Fun fact: I love read and write. During my life, I received a lot of awards in literature's contest.</p>
 
 ###
