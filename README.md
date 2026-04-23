@@ -39,9 +39,11 @@
  
 ### 📊 Most Used Language
 
-[ <div align=center>
+<div align="center">
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizCercal_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizCercal&show_icons=true&locale=en&layout=compact&theme=radical)]()
+  
+</div> 
  
 ---
 
