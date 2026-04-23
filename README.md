@@ -11,7 +11,7 @@
 
 - 👨‍💻 I am a systems development technician and I have started my undergraduate studies in software engineering;
 - 💬 I was recognized as the best student in the technical course in systems development in the year 2025;
-- 🌱 I currently work in ERP system management.
+- 🌱 I currently work in ERP system management for a children's clothing store.
 
 ## 🛠 &nbsp;Tech Stack
 
