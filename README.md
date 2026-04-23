@@ -42,8 +42,6 @@
 [ <div align=center>
   
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizCercal_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>](https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizCercal&show_icons=true&locale=en&layout=compact&theme=radical)
  
 ---
 
