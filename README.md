@@ -39,14 +39,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
  
-### 📊 Most Used Language
-
-<div align="center">
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=BeatrizCercal&show_icons=true&locale=en&layout=compact&theme=radical)]()
-  
-</div> 
- 
 ---
 
 ### 🔗 &nbsp;Contact Me
